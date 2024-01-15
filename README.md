@@ -1,6 +1,9 @@
 # ANALYSE GROWTH AND PRESENT INSIGHTS TO THE TELANGANA GOVERNMENT
- This is my first resume project challenge, which was conducted by CodeBasics. Analyse Telangana’s growth among different sectors quantitatively and provide useful insights to the Telangana government that would help them make data-informed decisions that would further support the growth of the state.
+
 ![TGGP](https://github.com/HemaliPatel3/Analyse-Growth-and-Present-Insights-to-the-Telangana-Government/assets/81223796/4a9f9dda-de81-4107-86a0-d8c9403bc3d2)
+
+ This is my first resume project challenge, which was conducted by CodeBasics. Analyse Telangana’s growth among different sectors quantitatively and provide useful insights to the Telangana government that would help them make data-informed decisions that would further support the growth of the state.
+
 
 
 
