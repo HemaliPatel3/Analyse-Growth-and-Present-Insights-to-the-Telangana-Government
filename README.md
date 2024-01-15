@@ -3,6 +3,7 @@
  
 ## Objective : 
 **Dataset Exploration:** Dive into Stamp Registration, Transportation, and Ts-Ipass datasets.
+
 **Attributes and Categories:** Understand the intricacies of attributes, categories, and the temporal dimensions involved.
 **Trend Analysis:** Uncover trends and patterns within each department.
 **Growth Identification:** Pinpoint growth opportunities and areas requiring attention.
